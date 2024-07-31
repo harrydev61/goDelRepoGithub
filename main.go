@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	githubToken = "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"
-	username    = "tranTriDev61"
+	githubToken = "xxx"
+	username    = "xxx"
 	repoFile    = "repoToDel.txt"
 )
 
